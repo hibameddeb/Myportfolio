@@ -60,8 +60,8 @@ Allows users to fill out a form to contact me directly.
 
 
 ### Versions:
-version1: about the version one of HTML
-version2: the first version of CSS
-version3:add my CV and the chat page
-version4: modified page HTML with adding bootstrap
-          add my photo
+- **version1**: about the version one of HTML
+- **version2**:the first version of CSS
+- **version3**: add my CV and the chat page
+- **version4**:modified page HTML with adding bootstrap
+              add my photo
